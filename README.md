@@ -17,16 +17,16 @@ My Beginner Website is a static webpage project developed to practice fundamenta
 ## Screenshots
 
 ### Home Section
-![Home Section](images/1.PNG)
+![Home Section](image/1.PNG)
 
 ### About Me Section
-![About Me Section](images/2.PNG)
+![About Me Section](image/2.PNG)
 
 ### Gallery
-![Gallery](images/3.PNG)
+![Gallery](image/3.PNG)
 
 ### Socials
-![Socials](images/4.PNG)
+![Socials](image/44.PNG)
 
 ## Tech Stack
 
